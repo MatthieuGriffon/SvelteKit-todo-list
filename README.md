@@ -43,4 +43,5 @@ src/routes/__layout.css : Styles CSS globaux de l'application.
 
 Contact
 Matthieu Griffon - postmaster@matthieu.griffon.fr
-
+```
+## Plus d'information sur SvelteKit https://kit.svelte.dev/
