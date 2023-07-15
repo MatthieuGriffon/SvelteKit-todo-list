@@ -34,12 +34,7 @@ L'application sera disponible à l'adresse http://localhost:5173.
 
 Structure du projet
 
-svelte.config.js : Configuration de SvelteKit.
-src/routes/index.svelte : Page principale de l'application avec la liste de tâches.
-src/routes/index.css : Styles CSS spécifiques à la page principale.
-src/routes/__layout.svelte : Mise en page globale de l'application.
-src/routes/__layout.css : Styles CSS globaux de l'application.
-
+src/routes/+page.svelte: Pour une question de simplicité, tout le code pour cette démo est dans ce fichier.
 
 Contact
 Matthieu Griffon - postmaster@matthieu.griffon.fr
